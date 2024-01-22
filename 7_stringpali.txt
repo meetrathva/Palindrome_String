@@ -1,0 +1,2 @@
+sir
+Given string is NOT palindrome.
